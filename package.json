@@ -9,7 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "augustaba",
+  "author": "augustaba(lemons.lhui@gmail.com)",
   "homepage": "https://github.com/augustaba/rider-cli.git",
   "keywords": ["rider", "react", "cli"],
   "license": "MIT",
